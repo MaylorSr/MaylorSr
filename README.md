@@ -4,8 +4,8 @@
 <h3 align="left">Puedes contactar conmigo en:</h3>
 <div align="center"> 
 
-  <a href="https://medium.com/maylorbustamante2001@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="maylorbustamante2001@gmail.com" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/maylor bustamante](https://www.linkedin.com/in/maylor-bustamante-0610181aa/?trk=public-profile-join-page)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maylor bustamante" height="30" width="40" /></a>
+  <a href="https://mail.google.com/mail/u/0/?hl=es#search/maylorbustamante2001%40gmail.com?compose=new" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="maylorbustamante2001@gmail.com" height="30" width="40" /></a>
+<a href="https://es.linkedin.com/in/maylor-bustamante-0610181aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maylor bustamante" height="30" width="40" /></a>
  
 </div>
 
